@@ -1,4 +1,4 @@
 appcontacto
 ===========
 
-Android Contacts Library
+Library for managing contacts on Android devices
